@@ -8,3 +8,5 @@ However, this time company wants to harness the available data of existing and p
 ### 2) Data Collection.
 The Dataset is collected from https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction
 The data consists of 20 column and 4888 rows.
+
+### The prediction is made using Random forest Classifier
